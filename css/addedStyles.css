@@ -1,0 +1,39 @@
+﻿.OpaqueBackground{
+background-color: rgba(0,0,0,0.7);
+width:75%;
+height: 100%;
+margin-left:auto;
+margin-right:auto;
+padding: 15px; 
+}
+
+.ourWorkPhotos{
+
+height: 100%;
+}
+
+.raiseAboutQuotes{
+padding: 25%;
+
+}
+
+.fixGridImgSize {
+
+    height: 300px;
+    width: 200px;
+}
+
+ #map {
+   width: 100%;
+   height: 400px;
+   background-color: grey;
+ }
+
+ .BackgroundFacebook{
+background-color: rgba(0,0,0,0.7);
+width:50%;
+height: 75%;
+margin-left:auto;
+margin-right:auto;
+padding: 15px; 
+}
