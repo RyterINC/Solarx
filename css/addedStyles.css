@@ -1,10 +1,12 @@
-﻿.OpaqueBackground{
-background-color: rgba(0,0,0,0.7);
-width:75%;
-height: 100%;
-margin-left:auto;
-margin-right:auto;
-padding: 15px; 
+﻿
+.OpaqueBackground {
+    background-color: rgba(0,0,0,0.7);
+    width: 75%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
 }
 
 .ourWorkPhotos{
@@ -43,23 +45,11 @@ padding: 15px;
 background-color: black;
 }
 
-.google-maps {
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    position: relative;
-    height: 0;
-}
-
-    .google-maps iframe {
-        left: 0;
-        top: 0;
-        height: 100%;
-        width: 100%;
-        position: absolute;
-    }
 
 .carouselSlides{
     margin-left:auto;
     margin-right:auto;
 
 }
+
+
